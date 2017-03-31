@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[LMCamera viewWillAppear:]:LMCamera.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.navigationController">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LMTreeNodeTableViewCell.node.setter:LMTreeTableView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.indentationLevel">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LMGLFilterImageController.viewWillLayoutSubviews() -&gt; ():LMGLFilterImageView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "filterView">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
